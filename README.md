@@ -1,73 +1,72 @@
-🎁 Sorteo de Amigos Secretos
+# 🎁 Proyecto de Sorteo de Amigos Secretos
 
 Este proyecto es una aplicación interactiva que permite a los usuarios agregar nombres a una lista y realizar un sorteo aleatorio para determinar quién será su amigo secreto. Además, ofrece una experiencia visual atractiva con alertas personalizadas y la opción de eliminar participantes de la lista con un botón de papelera.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
-📌 Agregar nombres a la lista de participantes.
+- 📌 Agregar nombres a la lista de participantes.
 
-🗑️ Eliminar nombres con un botón de papelera.
+- 🗑️ Eliminar nombres con un botón de papelera.
 
-🎁 Realizar el sorteo de manera aleatoria.
+- 🎁 Realizar el sorteo de manera aleatoria.
 
-🔔 Alertas visuales para mejorar la experiencia del usuario.
+- 🔔 Alertas visuales para mejorar la experiencia del usuario.
 
-🎨 Interfaz estilizada con CSS.
+- 🎨 Interfaz estilizada con CSS.
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
-HTML5
+### HTML5
 
-CSS3
+### CSS3
 
-JavaScript (Vanilla JS)
+### JavaScript (Vanilla JS)
 
-📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 
 📁 amigo-secreto│── 📁 assets│  
-│── 📄 fondo.png (Imagen de fondo de la aplicación)│   
-│── 📄 captura.png (Captura de pantalla de la aplicación)│   
-│── 📄 sortear.png (Ícono para el botón de sorteo)
-│── 📄 index.html (Estructura principal de la aplicación)
-│── 📄 style.css (Estilos visuales y diseño)
-│── 📄 app.js (Lógica del sorteo y alertas)
+- 📄 fondo.png (Imagen de fondo de la aplicación)│   
+- 📄 captura.png (Captura de pantalla de la aplicación)│   
+- 📄 sortear.png (Ícono para el botón de sorteo)
+- 📄 index.html (Estructura principal de la aplicación)
+- 📄 style.css (Estilos visuales y diseño)
+- 📄 app.js (Lógica del sorteo y alertas)
 
-🔄 Seguimiento del Proyecto
+## 🔄 Seguimiento del Proyecto
 
 El desarrollo y seguimiento de las tareas del proyecto se gestionó con Trello. Para ver el progreso y las asignaciones, puedes acceder a nuestro tablero.
 
-📜 Cómo Usar la Aplicación
+## 📜 Cómo Usar la Aplicación
 
-Descarga o clona este repositorio:
+- Descarga o clona este repositorio:
 
-git clone https://github.com/tu-usuario/amigo-secreto.git 
+. git clone https://github.com/tu-usuario/amigo-secreto.git 
 
-Abre index.html en tu navegador.
+- Abre index.html en tu navegador.
 
-Ingresa los nombres de los participantes y agrégalos a la lista.
+- Ingresa los nombres de los participantes y agrégalos a la lista.
 
-Elimina nombres si es necesario haciendo clic en el icono de la papelera 🗑️.
+- Elimina nombres si es necesario haciendo clic en el icono de la papelera 🗑️.
 
-Presiona "Sortear" para asignar un amigo secreto al azar.
+- Presiona "Sortear" para asignar un amigo secreto al azar.
 
-Disfruta de una experiencia interactiva con alertas visuales.
+- Disfruta de una experiencia interactiva con alertas visuales.
 
-📸 Vista Previa
+## 📸 Vista Previa
 
-Aquí puedes ver una captura de pantalla del proyecto en funcionamiento.
+![image](https://github.com/user-attachments/assets/a5802831-abe1-4776-99d9-fc80acee6e44)
 
-📌 Mejoras Futuras
 
-Habilitar la opción de reorganizar la lista arrastrando los nombres.
+## 📌 Mejoras Futuras
 
-Implementar almacenamiento local para guardar la lista de participantes.
+- Habilitar la opción de reorganizar la lista arrastrando los nombres.
 
-Agregar efectos de sonido al agregar o eliminar nombres.
+- Implementar almacenamiento local para guardar la lista de participantes.
 
-📄 Licencia
+- Agregar efectos de sonido al agregar o eliminar nombres.
 
-Este proyecto está bajo la Licencia MIT, lo que permite su uso y modificación libremente.
 
-📢 ¡Esperamos que disfrutes esta aplicación! Si tienes sugerencias o mejoras, no dudes en compartirlas. 😊
+
+
 
 
